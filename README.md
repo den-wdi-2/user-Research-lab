@@ -1,5 +1,13 @@
 # User Research Lab
 
+## I MUST HAVE:
+
+Survey used
+Responses to the survey (2)
+A short pitch for your idea
+
+## What you need to do:
+
 You'll need to conduct User research on a your chosen project 3 space:
 
 1. Pick the website/app/online service that could be improved
