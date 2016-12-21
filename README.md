@@ -2,9 +2,9 @@
 
 ## I MUST HAVE:
 
-Survey used
-Responses to the survey (2)
-A short pitch for your idea
+1. Survey used
+2. Responses to the survey (2)
+3. A short pitch for your idea
 
 ## What you need to do:
 
